@@ -16,7 +16,7 @@ Este proyecto consiste en una calculadora matemática con las 4 operaciones bás
 
 ## Uso del sitio
 
-se tiene que abrir la consola del navegador que se este usando, los comandos para poder abrir la consola pueden variar segun el navegador, pero estos son los más usados:
+se tiene que abrir el archivo index.html, después se abre la consola del navegador que se este usando, los comandos para poder abrir la consola pueden variar segun el navegador, pero estos son los más usados:
 - CTRL + SHIFT + J
 - F12
 - Click derecho y clickear en inspeccionar y se dirige a la pestaña Console
